@@ -3,7 +3,7 @@ const { default: mongoose } = require("mongoose");
 const app = express();
 const PORT = process.env.PORT || 5000;
 const cors = require("cors");
-const user = require ('./models/pass_model.js');
+const User = require ('./models/pass_model.js');
 const em_model = require ('./models/em_model.js');
 
 
