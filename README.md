@@ -1,1 +1,1 @@
-Delopy link = https://pass208011.netlify.app/
+DEPLOY = https://online-passwords.netlify.app/
